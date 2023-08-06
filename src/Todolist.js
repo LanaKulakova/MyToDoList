@@ -39,7 +39,7 @@ onFormSubmit(e) {
                 <form onSubmit = {this.onFormSubmit}>
                 <div className="container">
                     <input type="text" 
-                    placeholder="I want to buy..."
+                    placeholder="I want to do..."
                     onChange = {(e) => {this.onChangeEvent(e.target.value)}}
                     value = {this.state.userInput}  />
                 </div>
