@@ -1,3 +1,13 @@
+![Static Badge](https://img.shields.io/badge/my%20first%20project-brightgreen?logo=react)
+
+<h1 align="center">Hi there, I'm Lana
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IT student from Moscow, Russia</h3>
+
+# TO DO LIST application
+## This application will help you to create your to do list and manage changes. This will allow you always keep track of what needs to be done.
+## The aplication created with React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
